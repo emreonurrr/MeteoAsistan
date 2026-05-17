@@ -2,7 +2,6 @@
 
 Modern arayüzlü, dinamik atmosfer simülasyonuna sahip gelişmiş hava durumu ve kıyafet öneri sistemi.
 
-## 🚀 Canlı Demo
 # Kullanmak İçin:
 https://emreonurrr.github.io/MeteoAsistan/
 
@@ -13,7 +12,7 @@ https://emreonurrr.github.io/MeteoAsistan/
 > Bu proje tamamen eğitim ve geliştirme amaçlı hazırlanmıştır.  
 > Sunulan hava durumu verileri üçüncü taraf API servislerinden alınmaktadır.  
 > Oluşabilecek yanlış veri, kullanım veya karar sonuçlarından geliştirici sorumlu değildir.
-
+>
 > This project is developed for educational and development purposes only.  
 > Weather data is provided by third-party API services.  
 > The developer is not responsible for any damages, incorrect decisions or outcomes caused by usage.
@@ -49,16 +48,11 @@ https://emreonurrr.github.io/MeteoAsistan/
 
 MeteoAsistan Pro;
 
-- sıcaklık,
-- nem,
-- rüzgar,
-- atmosferik durum kodları,
-- günün saati
+- Sıcaklık,
+- Nem,
+- Rüzgar,
+- Atmosferik durum kodları,
+- Günün saati
 
 gibi verileri analiz ederek kullanıcıya dinamik kıyafet önerileri sunar.
 
----
-
-# 👨‍💻 Geliştirici
-
-Emre Onur
